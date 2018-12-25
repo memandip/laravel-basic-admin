@@ -1,2 +1,2 @@
-# intern-shala
+# Laravel Basic Admin panel scaffolding.
 
