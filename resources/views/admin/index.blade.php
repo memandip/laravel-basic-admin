@@ -1,4 +1,7 @@
-@extends("layouts.admin")
+@extends("layouts.admin-limitless")
+
+@section('page_header') Dashboard @endsection
+@section('page_description') Home @endsection
 
 @section("content")
 

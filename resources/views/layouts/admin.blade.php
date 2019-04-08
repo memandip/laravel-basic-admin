@@ -103,7 +103,7 @@
     <!-- /.content-wrapper -->
 
     <footer class="main-footer">
-        <strong>Copyright &copy; {{ date('Y') }} <a href="{{ url('/') }}">LaraJobs</a>.</strong> All rights
+        <strong>Copyright &copy; {{ date('Y') }} <a href="{{ url('/') }}">Admin Panel</a>.</strong> All rights
         reserved.
     </footer>
 
